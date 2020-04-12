@@ -1,4 +1,4 @@
-# Working-with-Custom-Images-Malaria
+# Working-with-Custom-Images-Malaria by CNN
 Classification of whether an Image of Cell is Infected with Malaria or Not
 
 In this notebook, I will build a Convolution Neural Network ML Model that will be able to predict with a certain amount of accuracy whether or not an image of a cell has been infected with Malaria or not.
